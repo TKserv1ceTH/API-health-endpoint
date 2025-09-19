@@ -1,6 +1,7 @@
 [
-  { "name": "Auth tool", "loc": "Bangkok-1", "up": false, "lat": 0 },
-  { "name": "VAR Tool", "loc": "SG-2", "up": true, "lat": 115 },
-  { "name": "License", "loc": "Tokyo-1", "up": false, "lat": 0 }
+  { "name": "Auth tool", "loc": "Worldwide", "up": false, "lat": 0 },
+  { "name": "VAR Tool", "loc": "Worldwide", "up": true, "lat": 115 },
+  { "name": "Bypass iPhone iPad", "loc": "Worldwide", "up": true, "lat": 0 }
 ]
+
 

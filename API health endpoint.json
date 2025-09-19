@@ -1,0 +1,5 @@
+[
+  { "name": "Auth API", "loc": "Bangkok-1", "up": true, "lat": 85 },
+  { "name": "File CDN", "loc": "SG-2", "up": true, "lat": 115 },
+  { "name": "License", "loc": "Tokyo-1", "up": false, "lat": 0 }
+]
